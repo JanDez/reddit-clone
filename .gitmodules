@@ -1,0 +1,3 @@
+[submodule "reddit-server-side"]
+	path = reddit-server-side
+	url = git@github.com:JanDez/reddit-server-side.git
